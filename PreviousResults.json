@@ -1,0 +1,53 @@
+{
+    "10/3/2025\n11:51:38 PM": {
+        "Overall_speed": "Fast",
+        "Duration": "16 mins",
+        "Pedestrians": "Yes",
+        "AI": {
+            "AverageWaitTime": 66.0,
+            "EmergencyAverageWaitTime": 30.0,
+            "AverageEmptyGreenLight": 1.0,
+            "AerageQueueLength": 30.0
+        },
+        "TR": {
+            "AverageWaitTime": 100.0,
+            "EmergencyAverageWaitTime": 64.0,
+            "AverageEmptyGreenLight": 7.0,
+            "AerageQueueLength": 43.0
+        }
+    },
+    "10/4/2025\n2:03:06 AM": {
+        "Overall_speed": "Fast",
+        "Duration": "32 mins",
+        "Pedestrians": "Yes",
+        "AI": {
+            "AverageWaitTime": 71.0,
+            "EmergencyAverageWaitTime": 43.0,
+            "AverageEmptyGreenLight": 1.0,
+            "AerageQueueLength": 33.0
+        },
+        "TR": {
+            "AverageWaitTime": 102.0,
+            "EmergencyAverageWaitTime": 83.0,
+            "AverageEmptyGreenLight": 4.0,
+            "AerageQueueLength": 46.0
+        }
+    },
+    "10/4/2025\n3:14:19 PM": {
+        "Overall_speed": "Fast",
+        "Duration": "2h",
+        "Pedestrians": "Yes",
+        "AI": {
+            "AverageWaitTime": 73.0,
+            "EmergencyAverageWaitTime": 40.0,
+            "AverageEmptyGreenLight": 1.0,
+            "AerageQueueLength": 34.0
+        },
+        "TR": {
+            "AverageWaitTime": 103.0,
+            "EmergencyAverageWaitTime": 81.0,
+            "AverageEmptyGreenLight": 5.0,
+            "AerageQueueLength": 47.0
+        }
+    }
+}
